@@ -1,6 +1,12 @@
 # 👋 Hi, I'm DuckyGeek  
 **You can also call me Irene :D**
 
+**☕ Support Me**  
+
+If you like what I do, maybe consider buying me a bubble tea please 🥺👉👈
+
+[![Ko-fi](https://img.shields.io/badge/Buy_Me_Bubble_Tea-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/duckygeek3713)
+
 ## 🔧 Currently Working On
 
 **🚀 Projects**  
@@ -45,7 +51,4 @@
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DuckyGeek&show_icons=true&theme=radical)
 
-**☕ Support Me**  
-If you like what I do, maybe consider buying me a bubble tea please 🥺👉👈
 
-[![Ko-fi](https://img.shields.io/badge/Buy_Me_Bubble_Tea-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/duckygeek3713)
