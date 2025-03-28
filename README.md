@@ -45,4 +45,4 @@
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DuckyGeek&show_icons=true&theme=radical)
 
-[![Ko-fi](https://img.shields.io/badge/Buy_Me_Bubble_Tea-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/你的用户名)
+[![Ko-fi](https://img.shields.io/badge/Buy_Me_Bubble_Tea-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/duckygeek3713)
