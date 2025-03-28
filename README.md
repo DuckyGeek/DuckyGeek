@@ -1,10 +1,15 @@
-# 👋 Hi, I'm Irene :D
+# 👋 Hi, I'm DuckyGeek  
+**You can also call me Irene :D**
 
-🔭 **Currently working on**: 
-- 🔧 Building: Java-based automation tools about computer hardware control, social media data optimization, scientific instrument management
-- 🔏 OffSec Training: THM labs → CTFs → OSCP prep (Ethical hacking focus)
-- 🎮 Creating: Dynamic interactive 3D environments in Unity & procedural level scripting in Roblox Lua
-- 🧬 Learning: Bioinformatics & fintech via Coursera for future specialization
+## 🔧 Currently Working On
+
+**🚀 Projects**  
+- **Java Automation**: Computer hardware control & Social media data optimization & Scientific instrument management
+- **Unity 3D**: Dynamic environments & Roblox Lua procedural scripting  
+
+**📚 Learning**  
+- Bioinformatics & Fintech (Coursera)  
+- OffSec Training (THM labs → CTFs → OSCP prep)  
 
 ## 🛠️ My Tech Stack
 
@@ -39,3 +44,5 @@
 ## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DuckyGeek&show_icons=true&theme=radical)
+
+[![Ko-fi](https://img.shields.io/badge/Buy_Me_Bubble_Tea-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/你的用户名)
