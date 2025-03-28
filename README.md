@@ -1,11 +1,13 @@
 # 👋 Hi, I'm DuckyGeek  
 **You can also call me Irene :D**
 
-**☕ Support Me**  
+#### **ฅ(◕ᴥ◕)ฅ Baby Coder Needs Boba** 
 
-If you like what I do, maybe consider buying me a bubble tea please 🥺👉👈
+**Development Status:**  
+🐣 Newborn → 🧠 Overthinking → 💻 Coding → 🧋 **STARVING**  
 
-[![Ko-fi](https://img.shields.io/badge/Buy_Me_Bubble_Tea-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/duckygeek3713)
+[![Milk Tea Fund](https://img.shields.io/badge/🥛_Baby‘s_First_Boba-FB88B4?style=for-the-badge&labelColor=FFECF1)](https://ko-fi.com/duckygeek3713)  
+*"Your support makes my tail wag!"* ʕ ᵔᴥᵔ ʔ
 
 ## 🔧 Currently Working On
 
