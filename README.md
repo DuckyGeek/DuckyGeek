@@ -21,6 +21,10 @@
 
 ## 🛠️ My Tech Stack
 
+**Offensive Security**：
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/DuckyGeek.png" alt="Your Image Badge" />
+
 **Programming Languages**:  
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
