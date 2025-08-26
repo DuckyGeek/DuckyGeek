@@ -46,6 +46,8 @@
 **Game Development**:  
 
 ![Unity](https://img.shields.io/badge/Unity-00CED1?style=flat&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-FF6600?style=flat&logo=blender&logoColor=white)
+![Autodesk Maya](https://img.shields.io/badge/Autodesk%20Maya-00A9E0?style=flat&logo=autodesk&logoColor=white)
 
 **Databases**:  
 
