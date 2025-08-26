@@ -41,7 +41,7 @@
 
 **Game Development**:  
 
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-00CED1?style=flat&logo=unity&logoColor=white)
 
 **Databases**:  
 
@@ -51,12 +51,12 @@
 
 ![PyCharm](https://img.shields.io/badge/PyCharm-21A789?style=flat&logo=pycharm&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-FF69B4?style=flat&logo=clion&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-00BFFF?style=flat&logo=webstorm&logoColor=white)
 ![GoLand](https://img.shields.io/badge/GoLand-FFD700?style=flat&logo=goland&logoColor=white)
 ![DataGrip](https://img.shields.io/badge/DataGrip-FFA500?style=flat&logo=datagrip&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ## 📊 GitHub Stats
 
